@@ -1,3 +1,3 @@
 My old layout site
 ===
-For creating this I used only **CSS** and **HTML**.
+I used only **CSS** and **HTML** for creating this.
